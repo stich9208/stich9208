@@ -1,6 +1,6 @@
 # Frontend Developer JAEWOOKJUNG
 
-배움과 소통을 즐기는 프론트엔드 개발자 정재욱입니다.
+**배움과 소통을 즐기는 프론트엔드 개발자 정재욱입니다.**
 
 ## Tech Stack & Tools
 
